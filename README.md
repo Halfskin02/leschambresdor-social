@@ -32,6 +32,7 @@ di Les Chambres d'Or tramite Metricool.
 | `grafiche/` | illustrazioni e grafiche già pronte da pubblicare |
 | `BRAND.md` | regole di comunicazione: tono, lingue, stile, cosa non pubblicare |
 | `registro.csv` | storico dei post programmati |
+| `STRATEGIA.md` | obiettivi di crescita, temi, cosa abbiamo imparato, proposte per il servizio |
 
 ## Nomi dei file
 
