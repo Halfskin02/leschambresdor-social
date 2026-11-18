@@ -9,7 +9,7 @@ di Les Chambres d'Or tramite Metricool.
 ## Come funziona
 
 1. Le foto arrivano (in chat o caricate qui), vengono ripulite dai metadati (GPS, modello del telefono),
-   ridimensionate a 1440 px sul lato lungo e rinominate in modo descrittivo.
+   ridimensionate a 2048 px sul lato lungo (serve per ritagliare il formato 4:5 a 1080 px) e rinominate in modo descrittivo.
 2. Claude sceglie le foto, scrive i testi seguendo `BRAND.md` e programma i post su Metricool
    usando il link pubblico della foto in questo repository.
 3. Ogni post programmato viene annotato in `registro.csv`, per non ripetere foto e temi.
@@ -25,6 +25,9 @@ di Les Chambres d'Or tramite Metricool.
 | `foto/appartamento/` | appartamento |
 | `foto/benvenuto-colazione/` | angolo di benvenuto, caffè, colazione |
 | `foto/dettagli/` | dettagli, arredi, oggetti, luce |
+| `foto/bagni/` | bagni |
+| `foto/INDICE.csv` | elenco delle foto con descrizione, note (cosa evitare) e ultimo uso |
+| `template/` | modello delle grafiche (`render.py`) e font Cormorant Garamond e Jost (licenza OFL) |
 | `foto/roma/` | quartiere e città |
 | `grafiche/` | illustrazioni e grafiche già pronte da pubblicare |
 | `BRAND.md` | regole di comunicazione: tono, lingue, stile, cosa non pubblicare |
