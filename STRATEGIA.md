@@ -36,6 +36,7 @@ L'IA serve per testi, impaginazione e analisi: non per inventare immagini.
 - 18/11/2026 — Le foto vere delle camere (agosto) hanno raggiunto in media 189 persone per post; le immagini IA e le illustrazioni (ottobre–novembre) in media 36. Le foto vere vincono.
 - 18/11/2026 — Dal 1° agosto zero Reel e 2 storie: manca il formato che porta persone nuove.
 - 18/11/2026 — I post che dicono dove siamo (Prati, Vaticano a piedi) sono tra quelli andati meglio.
+- 19/11/2026 — Ultime 4 settimane: 3 post, media 37 persone raggiunte, 0 salvataggi, 1 invio, +1 follower (412→413). I 2 post usciti alle 10 del mattino hanno raggiunto 20 e 42 persone, quello delle 21 49; Metricool indica le 19–21 come fasce migliori del profilo: programmare la sera.
 
 ## Migliorare il servizio (proposte da discutere con la famiglia)
 - 18/11/2026 — Il rotolo di carta igienica viene lasciato sul letto con gli asciugamani: negli hotel curati sta già in bagno. Sul letto meglio solo asciugamani, saponetta e un piccolo segno di benvenuto (es. biglietto con il cuoricino). Migliora l'esperienza e le foto.
