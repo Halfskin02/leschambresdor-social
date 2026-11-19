@@ -33,6 +33,7 @@ Il modello pronto è `template/render.py`: usarlo sempre, così ogni post resta 
 - Elenco e note di ogni foto: `foto/INDICE.csv`. Leggere sempre la colonna `note` prima di usarla.
 - **Niente carta igienica visibile**: le foto segnate "Carta igienica" si usano solo ritagliandola via; se è al centro, non usarle.
 - Niente targhe d'auto leggibili, niente marchi di altri in evidenza (es. capsule Borbone), niente persone.
+- Valerio (19/11/2026): nello stesso carosello niente foto troppo simili tra loro (es. due facciate di palazzo); per il tema Roma servono foto che facciano vedere la città. Le targhe si possono oscurare (sfocatura) invece di scartare la foto.
 - Nei testi solo cose vere: gestione familiare, angolo di benvenuto con caffè, tè, acqua e minibar in ogni camera. Niente servizi o prezzi non confermati dalla famiglia.
 
 ## Automazione (dal 18/11/2026)
