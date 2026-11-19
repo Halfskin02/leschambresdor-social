@@ -1,0 +1,15 @@
+{
+  "nome": "2026-11-28-famiglia",
+  "slide": [
+    {"tipo": "copertina", "foto": "foto/dettagli/angolo-poltroncine-lampada-01.jpg", "posizione": "50% 50%",
+     "titolo": "Welcome to our home", "sottotitolo": "Benvenuti a casa nostra."},
+    {"tipo": "interna", "foto": "foto/dettagli/scala-vista-dal-basso-01.jpg", "posizione": "50% 50%",
+     "titolo": "Family-run",
+     "testo_en": "A small stay in Prati, run by our family.",
+     "testo_it": "Una piccola struttura a Prati, gestita dalla nostra famiglia."},
+    {"tipo": "interna", "foto": "foto/dettagli/busto-consolle-01.jpg", "posizione": "22% 50%",
+     "titolo": "Golden details",
+     "testo_en": "Making your stay golden, one detail at a time.",
+     "testo_it": "Rendiamo d'oro il tuo soggiorno, un dettaglio alla volta."}
+  ]
+}

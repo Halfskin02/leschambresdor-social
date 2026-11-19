@@ -1,0 +1,11 @@
+{
+  "nome": "2026-11-25-prati-roma",
+  "slide": [
+    {"tipo": "copertina", "foto": "foto/roma/vista-facciata-tende-01.jpg", "posizione": "50% 50%",
+     "titolo": "Good morning, Prati", "sottotitolo": "Buongiorno da Prati."},
+    {"tipo": "interna", "foto": "foto/roma/vista-facciata-palazzo-rosa-01.jpg", "posizione": "85% 50%",
+     "titolo": "Rome on foot",
+     "testo_en": "Open the curtains on Prati. The Vatican is just 5 minutes away on foot.",
+     "testo_it": "Apri le tende su Prati. Il Vaticano è a soli 5 minuti a piedi."}
+  ]
+}
