@@ -37,6 +37,7 @@ L'IA serve per testi, impaginazione e analisi: non per inventare immagini.
 - 18/11/2026 — Dal 1° agosto zero Reel e 2 storie: manca il formato che porta persone nuove.
 - 18/11/2026 — I post che dicono dove siamo (Prati, Vaticano a piedi) sono tra quelli andati meglio.
 - 19/11/2026 — Ultime 4 settimane: 3 post, media 37 persone raggiunte, 0 salvataggi, 1 invio, +1 follower (412→413). I 2 post usciti alle 10 del mattino hanno raggiunto 20 e 42 persone, quello delle 21 49; Metricool indica le 19–21 come fasce migliori del profilo: programmare la sera.
+- 26/11/2026 — Il primo carosello con foto vere delle camere uscito la sera (19/11, ore 20) ha raggiunto 18 persone (3 like, 0 salvataggi), meno dei post di ottobre–novembre alle 10 (43 e 21); quello di Prati del 25/11 ore 20 è a 8 dopo un giorno. Foto vere e orario serale da soli non riportano la copertura di agosto (189): i post in foto arrivano quasi solo ai follower, per raggiungere persone nuove serve il Reel.
 
 ## Migliorare il servizio (proposte da discutere con la famiglia)
 - 18/11/2026 — Il rotolo di carta igienica viene lasciato sul letto con gli asciugamani: negli hotel curati sta già in bagno. Sul letto meglio solo asciugamani, saponetta e un piccolo segno di benvenuto (es. biglietto con il cuoricino). Migliora l'esperienza e le foto.
