@@ -1,0 +1,28 @@
+{
+  "nome": "2026-12-02-camere",
+  "slide": [
+    {
+      "tipo": "copertina",
+      "foto": "foto/camere/camera-poltrona-finestra-01.jpg",
+      "posizione": "55% 50%",
+      "titolo": "Your cozy corner in Rome",
+      "sottotitolo": "Il tuo angolo caldo a Roma."
+    },
+    {
+      "tipo": "interna",
+      "foto": "foto/camere/camera-letto-lampada-ottone-01.jpg",
+      "posizione": "50% 40%",
+      "titolo": "Warm evenings",
+      "testo_en": "Velvet cushions and soft light, after a December day in Rome.",
+      "testo_it": "Cuscini di velluto e luce morbida, dopo una giornata di dicembre a Roma."
+    },
+    {
+      "tipo": "interna",
+      "foto": "foto/dettagli/comodino-marmo-verde-lampada-01.jpg",
+      "posizione": "0% 50%",
+      "titolo": "Little details",
+      "testo_en": "Green marble and golden light, right by your bed.",
+      "testo_it": "Marmo verde e luce dorata, accanto al tuo letto."
+    }
+  ]
+}

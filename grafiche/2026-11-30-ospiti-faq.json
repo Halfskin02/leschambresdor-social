@@ -1,0 +1,36 @@
+{
+  "nome": "2026-11-30-ospiti-faq",
+  "slide": [
+    {
+      "tipo": "copertina",
+      "foto": "foto/camere/camera-letto-lampada-oro-poltrona-01.jpg",
+      "posizione": "45% 50%",
+      "titolo": "Good to know",
+      "sottotitolo": "Buono a sapersi, prima di partire."
+    },
+    {
+      "tipo": "interna",
+      "foto": "foto/dettagli/ingresso-targa-boutique-hotel-01.jpg",
+      "posizione": "0% 50%",
+      "titolo": "Where are we?",
+      "testo_en": "In Prati, Via dei Gracchi 32. The Vatican is 5 minutes away on foot.",
+      "testo_it": "A Prati, in Via dei Gracchi 32. Il Vaticano è a 5 minuti a piedi."
+    },
+    {
+      "tipo": "interna",
+      "foto": "foto/camere/camera-scrivania-finestra-01.jpg",
+      "posizione": "60% 50%",
+      "titolo": "Coffee in the room?",
+      "testo_en": "Yes! Every room has a welcome corner: water, coffee, tea and minibar.",
+      "testo_it": "Sì! In ogni camera c'è l'angolo del benvenuto: acqua, caffè, tè e minibar."
+    },
+    {
+      "tipo": "interna",
+      "foto": "foto/dettagli/lampade-sospensione-finestra-01.jpg",
+      "posizione": "40% 50%",
+      "titolo": "Who welcomes you?",
+      "testo_en": "Our family. Need help? Just ask us.",
+      "testo_it": "La nostra famiglia. Serve aiuto? Chiedi pure."
+    }
+  ]
+}
